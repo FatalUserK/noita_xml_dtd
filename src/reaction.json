@@ -9,7 +9,7 @@
 		"name": "probability",
 		"type": "float",
 		"default": "0",
-		"doc": "If the cells are selected this is the percentage chance the reaction occurs. This can have up to 2 decimal places, further precision does nothing."
+		"doc": "If the cells are selected this is the percentage chance the reaction occurs. This can have up to 2 decimal places, further precision is truncated."
 	},
 	{
 		"name": "input_cell1",
